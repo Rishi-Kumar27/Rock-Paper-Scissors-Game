@@ -1,4 +1,4 @@
-Rock Paper Scissors Game 🎮
+# Rock Paper Scissors Game 🎮
 
 This is a simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer and see who comes out on top! 💻🤖
 
@@ -14,7 +14,7 @@ Features:
 
 5.Reset option to start a new game 🔄
 
-Technologies Used:
+# Technologies Used:
 
 HTML: Structure of the game.
 
@@ -22,7 +22,7 @@ CSS: Styling for the layout and design.
 
 JavaScript: Game logic, user interaction, and score management.
 
-How to Play:
+# How to Play:
 
 1.Choose between Rock, Paper, or Scissors.
 
